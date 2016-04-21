@@ -1,29 +1,19 @@
 {
-	"bold_folder_labels": true,
-	"theme": "Material-Theme.sublime-theme",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"font_size": 9,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Vintage",
-		"Package Control"
-	],
-	"save_on_focus_lost": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"tabs_small": true,
-	"highlight_modified_tabs": true,
-	"status_bar_brighter": true,
-	"color_inactive_tabs": true,
-	"tabs_padding_small": true,
 	"auto_complete_commit_on_tab": false,
+	"bold_folder_labels": true,
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"detect_indentation": true,
 	"draw_indent_guides": true,
 	"enable_tab_scrolling": false,
 	"find_selected_text": true,
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"match_brackets": true,
 	"match_brackets_angle": false,
 	"match_brackets_braces": true,
@@ -31,11 +21,18 @@
 	"match_brackets_square": true,
 	"remember_open_files": true,
 	"remember_open_folders": true,
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"use_simple_full_screen": true,
+	"save_on_focus_lost": false,
 	"show_minimap": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"status_bar_visible": true
+	"status_bar_brighter": true,
+	"status_bar_visible": true,
+	"tab_size": 4,
+	"tabs_padding_small": true,
+	"tabs_small": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"word_wrap": true
 }
