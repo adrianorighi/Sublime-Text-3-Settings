@@ -23,6 +23,13 @@ Press Ctrl + Shift + P and select Package: Install. Search the desired package.
 9. AlignTab
 10. CSS3
 11. Git
+12. Git Conflict Resolver
+13. Laravel 5 Artisan
+14. PHP Companion
+15. Trainling Spaces
+16. XDebug
+17. Gulp
+18. Sublime CodeIntel
 
 ## My Installed Theme
 Material Theme
